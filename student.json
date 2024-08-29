@@ -1,0 +1,1292 @@
+[
+    {
+        "name": "Ana Martínez",
+        "tags": [
+            "A1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Participa activamente en clase",
+                "date": "29\/8\/2024"
+            },
+            {
+                "reason": "Entrega tareas a tiempo",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Falta de atención",
+                "date": "29\/8\/2024"
+            },
+            {
+                "reason": "Errores frecuentes en escritura",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Gramática básica",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Vocabulario esencial",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Luis Gómez",
+        "tags": [
+            "A2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Buena participación en debates",
+                "date": "29\/8\/2024"
+            },
+            {
+                "reason": "Trabajo en equipo excelente",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Retrasos en la entrega de tareas",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Gramática intermedia",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Redacción de textos",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Carlos López",
+        "tags": [
+            "B1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Excelente comprensión auditiva",
+                "date": "29\/8\/2024"
+            },
+            {
+                "reason": "Entrega de tareas muy detallada",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Dificultades con el uso de tiempos verbales",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Comprensión auditiva avanzada",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Uso de tiempos verbales",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "María Fernández",
+        "tags": [
+            "B2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Gran avance en redacción",
+                "date": "29\/8\/2024"
+            },
+            {
+                "reason": "Participación en clase sobresaliente",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Errores gramaticales frecuentes",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Redacción de ensayos",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Corrección de errores gramaticales",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "José Rodríguez",
+        "tags": [
+            "C1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Excelente uso de vocabulario avanzado",
+                "date": "29\/8\/2024"
+            },
+            {
+                "reason": "Habilidad destacada en escritura creativa",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Falta de consistencia en la tarea",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Uso avanzado de vocabulario",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Escritura creativa",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Laura Castillo",
+        "tags": [
+            "A2",
+            "Refuerzo"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Mejora constante en comprensión lectora",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Falta de participación en clase",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Comprensión lectora básica",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Actividades de refuerzo",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Pedro Sánchez",
+        "tags": [
+            "C2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Dominio excelente de estructuras complejas",
+                "date": "29\/8\/2024"
+            },
+            {
+                "reason": "Capacidad para argumentar de manera efectiva",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Estructuras gramaticales complejas",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Debates y argumentación",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Isabel Torres",
+        "tags": [
+            "B2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Buena gestión del tiempo en tareas",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Errores en pronunciación",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Gestión del tiempo en tareas",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Práctica de pronunciación",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Felipe Hernández",
+        "tags": [
+            "A1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Excelente esfuerzo en actividades",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Actividades de refuerzo básico",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Catalina Ramírez",
+        "tags": [
+            "B1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Mejora en la comprensión auditiva",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Errores en comprensión de lectura",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Comprensión auditiva intermedia",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Comprensión de lectura",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Andrés Guzmán",
+        "tags": [
+            "A2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Participación activa en proyectos grupales",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Proyectos grupales",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Valeria Ortega",
+        "tags": [
+            "B1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Trabajo de calidad en presentaciones",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Retrasos en la entrega de tareas",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Presentaciones orales",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Julian Moreno",
+        "tags": [
+            "C1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Excelente desempeño en exámenes escritos",
+                "date": "29\/8\/2024"
+            },
+            {
+                "reason": "Buena organización en trabajos de investigación",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Falta de participación en discusiones",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Exámenes escritos avanzados",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Trabajos de investigación",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Mónica Salazar",
+        "tags": [
+            "B2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Destaca en análisis de textos",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Errores en uso de preposiciones",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Análisis de textos",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Uso de preposiciones",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Ricardo Morales",
+        "tags": [
+            "A1",
+            "Refuerzo"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Mejora constante en vocabulario",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Necesita trabajar en la pronunciación",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Vocabulario básico",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Pronunciación",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Esteban Acuña",
+        "tags": [
+            "C2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Excelente redacción en trabajos complejos",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Redacción de trabajos complejos",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Lorena Ríos",
+        "tags": [
+            "A2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Buena capacidad para resolver ejercicios",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Errores frecuentes en escritura",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Resolución de ejercicios",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Corrección de escritura",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Gabriel Soto",
+        "tags": [
+            "B1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Buena participación en debates",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Falta de práctica en conversación",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Debates y discusiones",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Práctica de conversación",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Paola Vásquez",
+        "tags": [
+            "B2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Mejora en comprensión de lectura",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Comprensión de lectura avanzada",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Jorge Díaz",
+        "tags": [
+            "C1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Excelentes resultados en exámenes",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Errores en pruebas orales",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Preparación para exámenes",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Pruebas orales",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Sara Ortega",
+        "tags": [
+            "A1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Progreso en comprensión básica",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Dificultad con la gramática básica",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Comprensión básica",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Gramática básica",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Alejandra Peña",
+        "tags": [
+            "B1",
+            "Refuerzo"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Mejora en vocabulario",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Errores frecuentes en ejercicios",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Vocabulario intermedio",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Corrección de errores",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Martín Guzmán",
+        "tags": [
+            "C2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Habilidad avanzada en escritura",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Dificultad con ciertos matices de lenguaje",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Escritura avanzada",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Estela Bravo",
+        "tags": [
+            "A2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Participación activa en clase",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Participación en clase",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Diego Salazar",
+        "tags": [
+            "B2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Mejora en comprensión lectora",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Errores en producción escrita",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Comprensión lectora",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Producción escrita",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Nina Martínez",
+        "tags": [
+            "A1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Buena actitud hacia el aprendizaje",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Falta de práctica en ejercicios",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Ejercicios básicos",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Rodolfo Vargas",
+        "tags": [
+            "B1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Buena comprensión oral",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Dificultades con el vocabulario",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Comprensión oral",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Vocabulario intermedio",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Tatiana Gómez",
+        "tags": [
+            "B2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Mejora en habilidades de conversación",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Conversación avanzada",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Felipe Jiménez",
+        "tags": [
+            "A1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Mejora constante en tareas",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Tareas básicas",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Diana Arango",
+        "tags": [
+            "C1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Excelente trabajo en investigación",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Dificultades en gramática avanzada",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Investigación avanzada",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Gramática avanzada",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Cristian Ríos",
+        "tags": [
+            "B2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Buena capacidad de análisis",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Errores en producción escrita",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Análisis de textos",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Andrea Vélez",
+        "tags": [
+            "A2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Progreso en comprensión básica",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Comprensión básica",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Santiago Lozano",
+        "tags": [
+            "B1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Buena capacidad para resolver ejercicios",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Errores en vocabulario",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Resolución de ejercicios",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Vocabulario intermedio",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Verónica Díaz",
+        "tags": [
+            "C1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Excelente manejo de vocabulario avanzado",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Vocabulario avanzado",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Daniela Martínez",
+        "tags": [
+            "A1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Buena actitud hacia el aprendizaje",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Necesita mejorar en escritura",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Actividades básicas",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Juan Pablo Salcedo",
+        "tags": [
+            "B2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Buena participación en clase",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Participación en clase",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Gabriela López",
+        "tags": [
+            "B1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Mejora en redacción",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Errores en pronunciación",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Redacción intermedia",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Práctica de pronunciación",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Alejandro Cuervo",
+        "tags": [
+            "C2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Excelente desempeño en exámenes avanzados",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Exámenes avanzados",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Carla Rodríguez",
+        "tags": [
+            "A2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Mejora constante en tareas",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Errores frecuentes en comprensión oral",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Comprensión oral",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Laura Gómez",
+        "tags": [
+            "B2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Buena capacidad en análisis de textos",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Análisis de textos",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Oscar Jiménez",
+        "tags": [
+            "C1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Excelente manejo de estructuras complejas",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Dificultades con matices del lenguaje",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Estructuras complejas",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Juliana Pérez",
+        "tags": [
+            "A1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Buena actitud y esfuerzo",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Ejercicios básicos",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Carlos Fernández",
+        "tags": [
+            "B1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Mejora en comprensión escrita",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Comprensión escrita",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Sofía López",
+        "tags": [
+            "A2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Mejora constante en tareas",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Errores en gramática básica",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Tareas básicas",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Emilio López",
+        "tags": [
+            "B2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Buena participación en clase",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Participación en clase",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Felipe Torres",
+        "tags": [
+            "A1",
+            "Refuerzo"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Progreso en comprensión básica",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Errores frecuentes en escritura",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Comprensión básica",
+                "date": "29\/8\/2024"
+            },
+            {
+                "task": "Corrección de escritura",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Catalina Ortega",
+        "tags": [
+            "B2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Mejora en redacción",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Redacción avanzada",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Diana Moreno",
+        "tags": [
+            "C1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Excelente en análisis crítico",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Análisis crítico",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Javier Sánchez",
+        "tags": [
+            "C2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Excelente dominio del idioma",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Dominio avanzado del idioma",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Laura Villalba",
+        "tags": [
+            "B1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Buena comprensión oral y escrita",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Comprensión oral y escrita",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Mario Andrade",
+        "tags": [
+            "C2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Excelente capacidad de comunicación",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Comunicación avanzada",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Sara Ramírez",
+        "tags": [
+            "A1"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Buen desempeño en ejercicios básicos",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [
+            {
+                "reason": "Errores en gramática",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "tasks": [
+            {
+                "task": "Ejercicios básicos",
+                "date": "29\/8\/2024"
+            }
+        ]
+    },
+    {
+        "name": "Gabriel Vargas",
+        "tags": [
+            "B2"
+        ],
+        "positivePoints": [
+            {
+                "reason": "Mejora en habilidades de conversación",
+                "date": "29\/8\/2024"
+            }
+        ],
+        "negativePoints": [],
+        "tasks": [
+            {
+                "task": "Conversación avanzada",
+                "date": "29\/8\/2024"
+            }
+        ]
+    }
+]

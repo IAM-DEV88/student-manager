@@ -1,0 +1,43 @@
+/* Estilos generales */
+li > button.active {
+    background: rgb(220 220 220);
+    color: black;
+  }
+  
+  button.active {
+    background: rgb(10 10 10);
+    color: white;
+  }
+  
+  /* Estilos del modal */
+  .modal {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .modal-content {
+    width: 75%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  /* Botones de paginación */
+  .pagination-btn {
+    margin: 0 5px;
+    padding: 5px 10px;
+    background-color: rgb(211, 211, 211);
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .pagination-btn.active {
+    background-color: rgb(10, 10, 10);
+    color: #fff;
+  }
+  
+  /* styles.css */
+option.active {
+    background-color: #e2e8f0; /* Ejemplo de color para la opción activa */
+  }
+  

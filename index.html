@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gestión de Estudiantes</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body class="bg-gray-100 p-5">
+    <div class="container mx-auto">
+      <!-- Primera Sección: Input de Búsqueda -->
+      <section class="mb-8 bg-white p-5 rounded shadow-lg">
+        <h2 class="text-2xl font-bold mb-3">Buscar o Agregar Estudiante</h2>
+        <div class="flex gap-2">
+          <input
+            id="studentSearch"
+            list="studentsList"
+            placeholder="Buscar estudiante"
+            class="p-2 border rounded flex-grow"
+          />
+          <button
+            id="addStudent"
+            class="p-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition"
+          >
+            Agregar Estudiante
+          </button>
+        </div>
+        <datalist id="studentsList"></datalist>
+      </section>
+
+      <!-- Segunda Sección: Lista de Estudiantes -->
+<section class="mb-8 bg-white p-5 rounded shadow-lg">
+  <h2 class="text-2xl font-bold mb-3">Lista de Estudiantes</h2>
+  <div id="filterTags" class="mb-4"></div>
+  <ol id="studentsDisplay" class="divide-y divide-gray-200"></ol>
+  <div id="pagination" class="text-xs flex justify-center mt-4"></div>
+</section>
+
+
+      <!-- Tercera Sección: Detalles del Estudiante (Modal) -->
+      <div
+        id="studentDetailsModal"
+        class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center hidden"
+      >
+        <div class="bg-white p-5 rounded shadow-lg w-3/4">
+          <h2 class="text-2xl font-bold mb-3">Detalles del Estudiante</h2>
+          <div class="text-xs mb-4">
+            <label for="editName" class="block font-medium text-gray-700">Nombre:</label>
+            <input id="editName" type="text" class="mt-1 block w-full border-gray-300 rounded-md border-2 p-2" />
+          </div>
+          <div class="text-xs mb-4">
+            <label for="editTags" class="block font-medium text-gray-700">Etiquetas (separadas por comas):</label>
+            <input id="editTags" type="text" class="mt-1 block w-full border-gray-300 rounded-md border-2 p-2" />
+          </div>
+          <!-- Tabs -->
+          <div class="mb-0">
+            <ul class="flex border-b text-xs font-medium">
+              <li class="mr-1">
+                <button id="tab1" class="py-2 px-4 block focus:bg-gray-100 active">Positivos</button>
+              </li>
+              <li class="mr-1">
+                <button id="tab2" class="py-2 px-4 block focus:bg-gray-100">Pendientes</button>
+              </li>
+              <li>
+                <button id="tab3" class="py-2 px-4 block focus:bg-gray-100">Negativos</button>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Tab Content -->
+          <div id="tabContent1" class="tab-content">
+            <div class="shadow-lg p-2 text-xs mb-4">
+              <ul id="positivePointsList" class="mb-2"></ul>
+              <div class="flex gap-2 mb-2">
+                <input id="positiveReason" type="text" placeholder="Punto positivo" class="p-2 border rounded flex-grow" />
+                <button id="addPositivePoint" class="p-2 bg-green-500 text-white rounded hover:bg-green-600 transition">Agregar</button>
+              </div>
+            </div>
+          </div>
+
+          <div id="tabContent2" class="tab-content hidden">
+            <div class="shadow-lg p-2 text-xs mb-4">
+              <div class="mb-4">
+                <ol id="tasksList" class="mb-2"></ol>
+                <div class="flex gap-2">
+                  <input id="taskInput" type="text" placeholder="Agregar pendiente" class="p-2 border rounded flex-grow" />
+                  <button id="addTask" class="p-2 bg-yellow-500 text-white rounded hover:bg-yellow-600 transition">Agregar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div id="tabContent3" class="tab-content hidden">
+            <div class="shadow-lg p-2 text-xs mb-4">
+              <ul id="negativePointsList" class="mb-2"></ul>
+              <div class="flex gap-2">
+                <input id="negativeReason" type="text" placeholder="Punto negativo" class="p-2 border rounded flex-grow" />
+                <button id="addNegativePoint" class="p-2 bg-red-500 text-white rounded hover:bg-red-600 transition">Agregar</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="text-xs flex gap-2 mt-4">
+            <button id="saveDetails" class="p-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition">Guardar Cambios</button>
+            <button id="deleteStudent" class="p-2 bg-red-500 text-white rounded hover:bg-red-600 transition">Eliminar Estudiante</button>
+            <button id="closeModal" class="p-2 bg-gray-500 text-white rounded hover:bg-gray-600 transition">Cerrar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
